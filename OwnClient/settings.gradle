@@ -1,0 +1,3 @@
+rootProject.name='OwnClient'
+include ':app', ':joysticklibrary'
+project(':joysticklibrary').projectDir = new File('/Users/cudy_/OneDrive/Desktop/JoyStick-master')
